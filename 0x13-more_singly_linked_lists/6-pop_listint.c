@@ -6,7 +6,7 @@
  *
  * Return: if the linked list is empty - 0.
  * otherwise - The head ode's data (n).
- * /
+ */
 int pop_listint(listint_t **head)
 {
 	listint_t *tmp;
