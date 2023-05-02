@@ -4,9 +4,9 @@
  * sum_listint - calculates the sum of all the data  (n) of a linked list
  * @head : pointer to the head of the list
  * Return: sum of all the data (n),
- * or 0 - if the list is empty
+ *	or 0 - if the list is empty
  */
-int sum_listtint(listint_t *head)
+int sum_listint(listint_t *head)
 {
 int add;
 
